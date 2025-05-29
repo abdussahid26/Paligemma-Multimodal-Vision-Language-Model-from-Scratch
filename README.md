@@ -1,6 +1,6 @@
 # PaliGemma: A Versatile 3B Vision-Language Model for Transfer
 
-This repository provides an implementation of **PaliGemma**, a state-of-the-art multimodal vision-language model (VLM) released by Google. With 3 billion parameters, PaliGemma is designed to enable robust transfer learning across a wide range of vision-and-language tasks.
+This repository provides an implementation of **PaliGemma**, a state-of-the-art multimodal vision-language model (VLM) released by Google. 
 
 Thanks to [Hugging Face](https://huggingface.co/) and [Umar Jamil]() for their efforts in demystifying and making this model accessible to the community.
 
