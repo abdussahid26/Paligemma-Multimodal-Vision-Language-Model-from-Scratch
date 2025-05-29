@@ -138,7 +138,6 @@ def main(
     # model, tokenizer=load_hf_model(model_path, device)
     # Download and cache the model (will auto-download if not cached)
 
-
     login(token="Your token")
 
     model = AutoModel.from_pretrained("google/paligemma-3b-pt-224")
